@@ -5,9 +5,8 @@ func Min(a, b int) int {
 	// TODO
 	if a < b {
 		return a
-	} else {
-		return b
 	}
+	return b
 
 }
 
